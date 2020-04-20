@@ -1,0 +1,51 @@
+	 	 	 	=======RESUME======= 
+ 
+ 	 	- PERSONAL INFO - 
+ 
+ Full Name : YOGESH CHAUDHARY 
+ Date Of Birth : 25/07/1999 
+ E-Mail ID : abc@gmail.com 
+ Contact Number : 9876543210 
+ Address : MODEL TOWN 
+ Gender : MALE  
+ Nationality : INDIAN 
+==============================================================================================
+ 	 	--EDUCATIONAL QUALIFICATIONS --
+ 
+ 1. Qualification : 10TH 
+ Name of College/University : JNV 
+ Year Passed : 2015 
+ Grade/GPA : 10
+  
+ 2. Qualification : 12TH 
+ Name of College/University : CHANDIGARH 
+ Year Passed : 2017 
+ Grade/GPA : 90.6
+  
+ 3. Qualification :  
+ Name of College/University :  
+ Year Passed :  
+ Grade/GPA : 
+  
+
+==============================================================================================
+ 	 	-- WORK EXPERIENCE --
+ 
+ 1. Company : NO WORK EXPERIENCE 
+ Job Title :  
+ Years Worked : 
+  
+ 2. Company :  
+ Job Title :  
+ Years Worked : 
+  
+ 3. Company :  
+ Job Title :  
+ Years Worked : 
+  
+
+==============================================================================================
+ 	 	-- SKILLS/ACHIEVEMENTS --
+ 
+ 1. C++,JAVA
+  
